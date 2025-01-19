@@ -1,0 +1,14 @@
+.header {
+  width: 1000px;
+  display: flex;
+  justify-content: space-between;
+
+  .userInfo {
+    padding: 10px 30px;
+    min-width: 600px;
+    
+    text-align: start;
+    border: 1px solid gray;
+    border-radius: 10px;
+  }
+}
